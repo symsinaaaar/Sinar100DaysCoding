@@ -1,4 +1,5 @@
 #casting data 
+
 ##INTEGER
 print("====INTEGER====")
 data_int   = 3
