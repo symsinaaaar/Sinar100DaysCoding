@@ -3,6 +3,7 @@
 a = 5
 print(a)    
 print("Nilai a =", a)
+
 #assignment indirect
 b = a
 print(b)
