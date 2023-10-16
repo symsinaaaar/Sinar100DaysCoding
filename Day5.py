@@ -1,4 +1,4 @@
-# Mengambil input data dari user
+##Mengambil input data dari user
 # Mengambil data str
 data = input ("Masukkan nama : ")
 print("data = ", data, "type = ", type(data ))
