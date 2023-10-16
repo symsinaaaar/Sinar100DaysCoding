@@ -1,20 +1,20 @@
 #Tipe data
-#angka Satuan (integer)
+#angka Satuan(integer)
 data_integer = 3
 print("data : ", data_integer)
 print("-bertipe : ", type(data_integer))
 
-#angka dengan koma (float)
+#angka dengan koma(float)
 data_float = 1.5
 print("data : ", data_float) 
 print("-bertipe : ", type(data_float))
 
-#kumpulan karakter (string)
+#kumpulan karakter(string)
 data_string = "Sinar"
 print("data : ", data_string)
 print("-bertipe : ", type(data_string))
 
-#biner true/false (boolean)
+#biner true/false(boolean)
 data_bool = True
 print("data : ", data_bool)
 print("-bertipe : ", type(data_bool))
