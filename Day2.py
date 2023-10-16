@@ -1,5 +1,4 @@
 #mengenal variabel di python
-
 #assignment nilai 
 a = 5
 print(a)    
