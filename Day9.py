@@ -27,7 +27,7 @@ print(a,'>=',4,'=', hasil)
 hasil = b >= 4
 print(b,'>=',4,'=', hasil)
 
-# kurang dari sama dengan >
+# kurang dari sama dengan <=
 print('========== kurang dari sama dengan (<=)')
 hasil = a <= 4
 print(a,'<=',4,'=', hasil)
@@ -42,11 +42,8 @@ hasil = b == 4
 print(b,'==',4,'=', hasil)
 
 # tidak sama dengan !=
-print('========== sama dengan (!=)')
+print('========== tidak sama dengan (!=)')
 hasil = a != 4
 print(a,'!=',4,'=', hasil)
 hasil = b != 4
 print(b,'!=',4,'=', hasil)
-
-
-
