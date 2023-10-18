@@ -1,6 +1,7 @@
 ##Operasi Logika Atau Boolean
 
-# not, or, and, xor
+# not, or, and, xor #
+
 # NOT
 print('====NOT====')
 a = True
