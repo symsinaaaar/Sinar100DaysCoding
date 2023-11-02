@@ -1,3 +1,12 @@
+# soal hari ini (Percabangan)
+# buatkan sebuah program yang menginputkan nama, penghasilan bulanan, pekerjaan
+# memiliki kondisi Ketika penghasilan perbulan lebih dari 3jt maka mendapat pajak 5%
+# jika penghasilan lebih dari 10jt maka mendapat pajak 15%
+# lalu Ketika pekerjaan beliau adalah petani maka akan mendapatkan bantuan dana sebesar 1.000.000 perbulan
+# Jika pekerjaan PNS maka tidak mendapatkan apapun
+# jika selain petani dan selain PNS maka mendapatkan bantuan sebesar 200.000
+# lalu hitung total gaji bersih perbulannya
+
 nama = input("Masukkan nama Anda: ")
 pekerjaan = input("Masukkan pekerjaan Anda: ")
 penghasilan_bulanan = int(input("Masukkan penghasilan bulanan Anda: "))
