@@ -21,7 +21,7 @@ if pekerjaan == "Petani":
 elif pekerjaan == "PNS":
     bantuan = 0
 else:
-    bantuan = 200
+    bantuan = 200000
     
 gaji_bersih = gaji_sementara + bantuan
 print("gaji_bersih", gaji_bersih)
